@@ -2,7 +2,6 @@
 """
 """
 ##Racheal Fisher
-#To use this code, copy your data and put it in two columns in a txt with nothing else
 
 # Import programs
 import matplotlib.pyplot as plt
